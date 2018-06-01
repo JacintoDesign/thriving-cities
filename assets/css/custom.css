@@ -10,7 +10,11 @@ body {
 }
 
 a {
-  color: #f44336;
+  color: #9c27b0;
+}
+
+.btn-purple {
+  background-color: #9c27b0;
 }
 
 #logo {
