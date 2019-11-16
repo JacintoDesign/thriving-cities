@@ -1,4 +1,4 @@
-# [Coding Challenge 5](https://jacintodesign.github.io/coding-challenge-5/)
+# [Thriving Cities](https://jacintodesign.github.io/thriving-cities/)
 
 ![Thriving Cities { Events }](https://jacinto.design/mockups/thriving-cities-wide.jpg "Thriving Cities { Events }")
 
